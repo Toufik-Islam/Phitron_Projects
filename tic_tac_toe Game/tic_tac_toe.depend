@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671108236 source:c:\users\toufik\documents\solve\tic_tac_toe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
